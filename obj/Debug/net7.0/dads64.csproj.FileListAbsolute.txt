@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\dads64\bin\Debug\net7.0\dads64.exe
+C:\Users\User\Desktop\dads64\bin\Debug\net7.0\dads64.deps.json
+C:\Users\User\Desktop\dads64\bin\Debug\net7.0\dads64.runtimeconfig.json
+C:\Users\User\Desktop\dads64\bin\Debug\net7.0\dads64.dll
+C:\Users\User\Desktop\dads64\bin\Debug\net7.0\dads64.pdb
+C:\Users\User\Desktop\dads64\obj\Debug\net7.0\dads64.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dads64\obj\Debug\net7.0\dads64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dads64\obj\Debug\net7.0\dads64.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dads64\obj\Debug\net7.0\dads64.AssemblyInfo.cs
+C:\Users\User\Desktop\dads64\obj\Debug\net7.0\dads64.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dads64\obj\Debug\net7.0\dads64.dll
+C:\Users\User\Desktop\dads64\obj\Debug\net7.0\refint\dads64.dll
+C:\Users\User\Desktop\dads64\obj\Debug\net7.0\dads64.pdb
+C:\Users\User\Desktop\dads64\obj\Debug\net7.0\dads64.genruntimeconfig.cache
+C:\Users\User\Desktop\dads64\obj\Debug\net7.0\ref\dads64.dll
